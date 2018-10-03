@@ -1,0 +1,23 @@
+{
+  "name": "platformer-server",
+  "version": "1.0.0",
+  "description": "The server-side/multiplayer of the platformer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stem-code/platformer-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stem-code/platformer-server/issues"
+  },
+  "homepage": "https://github.com/stem-code/platformer-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
